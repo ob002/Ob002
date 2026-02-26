@@ -2,7 +2,7 @@
   
 # Hi 👋, I'm Amos Ombworo
 
-### A Full-Stack & Emerging Web3 Developer
+### A Full-Stack & Web3 Developer
 
 Building real-world tech solutions | Exploring crypto systems | Solving digital problems through code
 
