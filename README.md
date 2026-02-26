@@ -6,7 +6,7 @@
 
 Building real-world tech solutions | Exploring crypto systems | Solving digital problems through code
 
-[![Email](https://img.shields.io/badge/Email-amosombworogmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amosombworo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amosombworo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amosombworo@gmail.com)
 
 </div>
 
