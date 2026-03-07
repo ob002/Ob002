@@ -18,7 +18,7 @@ I thrive at the intersection of finance and technology, crafting solutions that 
 
 - 🔭 Currently building *production-grade web & crypto-related tools*
 - 👯 Open to collaborating on *open-source, trading & Web3 projects*
-- 💬 Ask me about *JavaScript, Python, Git, Linux & development workflows*
+- 💬 Ask me about *How can my value be of use to you*
 - 📫 Reach me at [amosombworo@gmail.com](mailto:amosombworo@gmail.com)
 - ⚡ Fun fact: *I enjoy exploring how tech connects finance, automation & the internet*
 
