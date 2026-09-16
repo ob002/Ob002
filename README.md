@@ -32,6 +32,7 @@ I thrive at the intersection of finance and technology, crafting solutions that 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amos%20Ombworo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amos-ombworo)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2FOmbworo68-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ombworo-68)
 [![Medium](https://img.shields.io/badge/Medium-@obkt1-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@obkt1)
+[![portfolio](https://amosombworoportfolio.netlify.app)
 
 </div>
 
